@@ -16,6 +16,7 @@ def scrape_page(soup, quotes):
         tags = []
         for tag_element in tag_elements:
             tags.append(tag_element.text)
+        #creates a list of dictionaries for each of the fileds within the quote
         quotes.append(
             {
                 'text': text,
