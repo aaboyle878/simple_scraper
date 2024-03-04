@@ -1,4 +1,4 @@
-# Simple Scrapper
+# Simple Scraper
 Welcome to my simple scraper repo. Here i have built a simple web scrapper which connects to a sandbox static website where we will scrap the quotes.
 
 ## Table of Contents
